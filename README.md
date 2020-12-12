@@ -1,6 +1,8 @@
 OMERO systemd Jenkins slave
 ===========================
 
+[![Actions Status](https://github.com/ome/devslave-c7-docker/workflows/Build/badge.svg)](https://github.com/ome/devslave-c7-docker/actions)
+
 Docker Jenkins slave image for OMERO devspace.
 
 ###  Docker
